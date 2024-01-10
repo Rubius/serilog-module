@@ -7,7 +7,7 @@
         <PackageId>Rubius.Logging.Serilog</PackageId>
         <PackageLicenseExpression>MIT</PackageLicenseExpression>
         <PackageReadmeFile>README.md</PackageReadmeFile>
-        <PackageIcon>icon.png</PackageIcon>
+        <PackageIcon>logo_128x128.png</PackageIcon>
         <Authors>Donat Kolzenov</Authors>
         <Company>Rubius</Company>
         <PackageTags>rubius;serilog;logging;aspnetcore</PackageTags>
@@ -18,7 +18,7 @@
 
     <ItemGroup>
       <None Include="..\..\README.md" Pack="true" PackagePath=""/>
-      <None Include="..\..\assets\icon.png" Pack="true" PackagePath=""/>
+      <None Include="..\..\assets\logo_128x128.png" Pack="true" PackagePath=""/>
     </ItemGroup>
 
     <ItemGroup>
