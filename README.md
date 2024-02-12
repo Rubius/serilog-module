@@ -1,4 +1,4 @@
-# ![Rubius logo](https://raw.githubusercontent.com/Rubius/serilog-module/main/assets/logo_48x48.png) Rubius.Logging.Serilog
+# ![Rubius logo](./.docs/media/logo_48x48.png) Rubius.Logging.Serilog
 
 Logging configuration simplifier, enabling by a couple lines of code
 
